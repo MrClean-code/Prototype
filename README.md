@@ -12,9 +12,7 @@ __*prototype 6*__ : ПАТТЕРН ПРОТОТИП
 
 + **Технологический стэк:**
   
-  :star: java 19, сборщик проектов maven, MVC, fxml.
-
-  :star: платформа JavaFX
+  :star: java 19, javaFX, сборщик проектов maven, MVC, fxml.
 
 
 ## Зависимости
