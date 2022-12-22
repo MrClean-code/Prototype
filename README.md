@@ -41,7 +41,7 @@ _____
 _____
 
 
-
+https://sun9-16.userapi.com/impg/oC9lWlfI3ZtmymNMbSsnBteZlpOx2l75HNQ-Mg/yxsghAWEHUQ.jpg?size=1088x552&quality=96&sign=1122bd342865fdfc640336f3da1478b2&type=album
 
 ## Источники и справочники
 _____
