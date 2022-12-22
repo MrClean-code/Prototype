@@ -40,8 +40,13 @@ _____
 ## Uml диаграмма классов
 _____
 
-
 ![1](https://sun9-16.userapi.com/impg/oC9lWlfI3ZtmymNMbSsnBteZlpOx2l75HNQ-Mg/yxsghAWEHUQ.jpg?size=1088x552&quality=96&sign=1122bd342865fdfc640336f3da1478b2&type=album)
+
+## Структура проекта
+_____
+
+![2](https://sun1-57.userapi.com/impg/mtjvh60Jxaq96TK-RRyu9oQR-LKfFe7bff8pVQ/LJ7Cca9FmOc.jpg?size=403x407&quality=96&sign=0b2283bc2bdc2b80fdb0c134ddc8440b&type=album)
+
 ## Источники и справочники
 _____
 Курс "Программной инженерии" - руководитель Минакова О.В.
